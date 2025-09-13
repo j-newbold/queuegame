@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chart.js": "^3.6.0"
+  }
+}
